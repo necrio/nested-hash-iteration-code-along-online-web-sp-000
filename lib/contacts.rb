@@ -21,10 +21,10 @@ contacts.each do |person, contact_hash|
         if att == :favorite_ice_cream_flavors
 
 
-          
 
 
-      
+
+
         end
     end
 end
