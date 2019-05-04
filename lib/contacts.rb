@@ -24,7 +24,7 @@ contacts.each do |person, contact_hash|
 
 
 
-          end
+          # end
         end
     end
 end
